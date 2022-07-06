@@ -216,7 +216,7 @@ body{
     width: 1170px;
     height: 100px;
     left: 15px;
-    top: 841px;
+    top: 900px;
     background: #7FAFF7;
 }
 
@@ -241,7 +241,9 @@ body{
  visibility: hidden;
 
 }
-a{
+a{  
+    display: block;
+    padding: 11px 40px;
     text-decoration: none;
 }
 .popup_content{
